@@ -79,3 +79,6 @@ In out Chi-Square result, we recieved a p-value of 0.0012. Since this value is <
 
 ## Conclusions
 
+The question was if dying from COVID  is independent of sex. We used a sample from South Korea and then used graphical, numerical, and inferential results to research this question. From these, we discovered that 98.7% of females lived and 1.4% died compared to 97% of men living and 3% of them dying. percentage wise, COVID killed over twice the amount of men died than women. Eventually, we decided to reject or null hypothesis (dying isn't independent of sex) because our p-values show less than the value of significance. 
+
+
