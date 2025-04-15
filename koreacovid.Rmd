@@ -69,8 +69,13 @@ Out of the alive group. 12% more women survived over men. Out of the dead group,
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
-
+In out Chi-Square result, we recieved a p-value of 0.0012. Since this value is <0.05 (our point of significant), we reject or null (that dying is not independent of sex). In our Fisher's test, we received a p-value of 0.0009 which is also <0.05, we again will be rejecting the null hypothesis.
 
 ## Conclusions
 
